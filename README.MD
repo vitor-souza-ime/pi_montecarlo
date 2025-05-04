@@ -46,7 +46,7 @@ pip install numpy matplotlib tqdm
 Basta rodar o script principal:
 
 ```bash
-python monte_carlo_pi.py
+python pi.py
 ```
 
 O script:
@@ -60,7 +60,7 @@ O script:
 ## 📁 Estrutura
 
 ```
-monte_carlo_pi.py   # Script principal com simulação e visualizações
+pi.py   # Script principal com simulação e visualizações
 README.md           # Este arquivo
 ```
 
